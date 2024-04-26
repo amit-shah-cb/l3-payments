@@ -1,0 +1,16 @@
+{
+  "name": "l3-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Shah",
+  "license": "ISC",
+  "dependencies": {
+    "@eth-optimism/sdk": "^3.3.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
